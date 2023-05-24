@@ -17,3 +17,7 @@ else{
 return "E"
 }
 }
+
+$avgScore =80;
+$grade =studentScore(avgScore);
+echo " The student grade is :$grade";
