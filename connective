@@ -1,4 +1,5 @@
 
 StudentScore($score){
-if score >=
+if score >=70;
+return "A";
 }
