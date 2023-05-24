@@ -4,5 +4,7 @@ if ($score >=70){
 return "A";
 }
 
-esleif($score >=60)
+esleif($score >=60){
+return "B";
+}
 }
