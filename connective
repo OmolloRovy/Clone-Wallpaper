@@ -1,5 +1,8 @@
 
 StudentScore($score){
-if score >=70;
+if ($score >=70){
 return "A";
+}
+
+esleif($score >=60)
 }
