@@ -13,4 +13,7 @@ return "C";
 esleif($score >=40){
 return "D";
 }
+else{
+return "E"
+}
 }
