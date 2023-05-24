@@ -8,6 +8,9 @@ esleif($score >=60){
 return "B";
 }
 esleif($score>=50){
-return "C"
+return "C";
+}
+esleif($score >=40){
+return "D";
 }
 }
