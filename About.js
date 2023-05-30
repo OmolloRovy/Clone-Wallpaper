@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { orgin: 'right' });
 /*================typed js===============*/
 const typed = new Typed('.multiple-text', {
 
-    strings: ['r', 'Data Analyst', 'Django Framework specialist'],
+    strings: ['r', 'Django Framework specialist'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
