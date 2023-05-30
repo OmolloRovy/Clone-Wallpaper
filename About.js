@@ -44,7 +44,7 @@ ScrollReveal({
 });
 
  { orgin: 'bottom'  orgin: 'left' });
-ScrollReveal().reveal('.about-content p, .about-content', { orgin: 'right' });
+ScrollReveal().reveal('.home-content p, .about-content', { orgin: 'right' });
 
 /*================typed js===============*/
 const typed = new Typed('.multiple-text', {
