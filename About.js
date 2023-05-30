@@ -43,8 +43,8 @@ ScrollReveal({
     delay: 200
 });
 
-ScrollReveal().reveal('.about-content, .heading', { orgin: 'top' img, .services-container, .portfolio-box, .contact form', { orgin: 'bottom'  orgin: 'left' });
-ScrollReveal().reveal('.home-content p, .about-content', { orgin: 'right' });
+ { orgin: 'bottom'  orgin: 'left' });
+ScrollReveal().reveal('.about-content p, .about-content', { orgin: 'right' });
 
 /*================typed js===============*/
 const typed = new Typed('.multiple-text', {
