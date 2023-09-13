@@ -14,6 +14,7 @@ if (err) throw err;
   console.log('append complete');   
   fs.rename(path.join(__dirname,'files', 'append.txt', 'newrename.txt', )(err)=>{
     if(err) throw err;
+    consloe.log()
   });
   });
 }); 
