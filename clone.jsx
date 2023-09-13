@@ -11,8 +11,6 @@ if(err) throw err;
 
   fs.appendFile(path.join(__dirname, 'files', 'append.txt', 'testing text'),(err)=>{
 if (err) throw err;
-  console.log('append complete');
-
-                
+  console.log('append complete');              
   });
 }); 
