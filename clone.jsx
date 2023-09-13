@@ -22,4 +22,9 @@ if (err) throw err;
 }); 
 
 // exiting uncaught errors
-  
+  process.on(
+    'uncaught ecxeption' err=>{
+      console.log(`there was an uncaught error: $err`);
+    pro
+    }
+  )
