@@ -7,5 +7,5 @@ if (err) throw err;
 });
 fs.writeFile(path.join(__dirname, 'files', 'starter.txt' (err)=>{
 if(err) throw err;
-  
+  console.log('write complete')
 }); 
