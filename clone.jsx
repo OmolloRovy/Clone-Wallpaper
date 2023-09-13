@@ -25,6 +25,6 @@ if (err) throw err;
   process.on(
     'uncaught ecxeption' err=>{
       console.log(`there was an uncaught error: $err`);
-    pro
+    process.exit(1);
     }
   )
