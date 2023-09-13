@@ -6,6 +6,6 @@ if (err) throw err;
   console.log(log);
 });
 fs.writeFile(path.join(__dirname, 'files', 'starter.txt' (err)=>{
-
+if(err) throw err;
   
 }); 
