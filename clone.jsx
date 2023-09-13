@@ -5,4 +5,7 @@ fs.readFile(path.join(__dirname, 'files','fikes.txt'),'utf8'(data, err)=>{
 if (err) throw err;
   console.log(log);
 });
-fs.writeFile(path.join(__dirname)
+fs.writeFile(path.join(__dirname, 'files', 'starter.txt' (err)=>{
+
+  
+}); 
