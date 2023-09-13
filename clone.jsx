@@ -1,2 +1,2 @@
 const fs =require('fs');
-const fsPromises
+const fsPromises = require('fs').promises;
