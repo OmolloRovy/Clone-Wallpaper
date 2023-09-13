@@ -5,6 +5,7 @@ fs.readFile(path.join(__dirname, 'files','fikes.txt'),'utf8'(data, err)=>{
 if (err) throw err;
   console.log(log);
 });
+await fsPromises.unlink('starter.txt')
 fs.writeFile(path.join(__dirname, 'files', 'starter.txt','n ice to meet youo' (err)=>{
 if(err) throw err;
   console.log('write complete')
