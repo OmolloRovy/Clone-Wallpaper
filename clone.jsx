@@ -32,7 +32,7 @@ if (err) throw err;
 // Await Async >>>>
 const fileOps = asycn()=>{
     try{
-      const data = await fsPromises.readFile(path.join(__dirname, 'files', 'starter.txt'), data);
+      const data = await fsPromises.readFile(path.join(__dirname, 'files', 'starter.txt'), utf8);
       console.log(data);
       await fsPromises.writeFile(path.jion(___dirname,'files', 'promisewrite.txt','call me he greatest'))
     }catch{
