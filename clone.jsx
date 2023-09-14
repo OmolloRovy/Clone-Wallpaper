@@ -37,7 +37,7 @@ const fileOps = asycn()=>{
   await fsPromises.writeFile(path.join(__dirname,'files','promisesWrite.txt'),data);
   await fsPromises.appendFile(path.join(__dirname,'files','promisesWrite.txt','\n\n the big init'));
   await fsPromises.rename(path.join(__dirname,'files','promisesWrite.txt','renamePromsises.txt'));
-  const NewData= await fspromises.readFile(path.join(__dirname,'promiseses','newdata.txt'), data);
+  const NewData= await fspromises.readFile(path.join(__dirname,'promiseses','newdata.txt'), utf8);
       console.log(NewData);                    
     }catch{
       console.log(err)
