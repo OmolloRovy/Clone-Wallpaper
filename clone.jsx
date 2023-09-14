@@ -11,7 +11,7 @@ fs.writeFile(path.join(__dirname, 'files', 'starter.txt','n ice to meet youo' (e
 if(err) throw err;
   console.log('write complete')
 
-  fs.appendFile(path.join(__dirname, 'files', 'append.txt', 'testing text'),(err)=>{
+  fs.appendFile(path.join(__dirname, 'files', 'append.txt', '\n\n testing text'),(err)=>{
 if (err) throw err;
   console.log('append complete');   
                 
