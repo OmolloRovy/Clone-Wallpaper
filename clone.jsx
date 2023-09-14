@@ -29,4 +29,10 @@ if (err) throw err;
     process.exit(1);
     }
   )
-// fsPromises >>>>
+// Await Async >>>>
+const fileOps = asycn()=>{
+    try{
+      const data = await fsPromises.readFfile(path.join(__dirname, 'files', 'starter.txt', data));
+      console.log(data);
+    }
+}
