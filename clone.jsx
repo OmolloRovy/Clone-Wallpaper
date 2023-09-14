@@ -43,3 +43,4 @@ const fileOps = asycn()=>{
       console.log(err)
     }
 }
+                          fileOps();
