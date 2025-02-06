@@ -96,4 +96,4 @@ Contributions are welcome! Please feel free to submit pull requests for bug fixe
 * Implement a "set as wallpaper" feature.
 * Implement image upload functionality for users (if applicable).
 
-## Credits
+
