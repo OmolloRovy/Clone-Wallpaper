@@ -101,5 +101,3 @@ Contributions are welcome! Please feel free to submit pull requests for bug fixe
 * [List any individuals or resources that contributed to the project.]
 
 ## License
-
-* [Specify the license under which the project is distributed.  E.g., "MIT License," "GPLv3," etc.]
