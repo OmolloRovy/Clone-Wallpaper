@@ -103,14 +103,3 @@ Contributions are welcome! Please feel free to submit pull requests for bug fixe
 ## License
 
 * [Specify the license under which the project is distributed.  E.g., "MIT License," "GPLv3," etc.]
-```
-
-**Key changes and additions for a MERN stack application:**
-
-* **MERN Stack Mention:** Clearly states that the application uses the MERN stack.
-* **Frontend/Backend Distinction:** Separates installation and usage instructions for the frontend and backend.
-* **Environment Variables:** Explains how to configure environment variables, which are crucial for MERN applications (especially for database connections).
-* **API Endpoints:** Provides examples of API endpoints, which is essential for understanding how the frontend and backend interact.
-* **Technology Specifics:**  Encourages you to list other key technologies used, like state management or UI libraries.
-* **Database Mention:** Explicitly mentions the use of MongoDB.
-* **More Detailed Installation:** Provides clearer, step-by-step instructions for setting up the project.
