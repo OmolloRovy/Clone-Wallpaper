@@ -97,5 +97,3 @@ Contributions are welcome! Please feel free to submit pull requests for bug fixe
 * Implement image upload functionality for users (if applicable).
 
 ## Credits
-
-* [List any individuals or resources th
