@@ -98,6 +98,4 @@ Contributions are welcome! Please feel free to submit pull requests for bug fixe
 
 ## Credits
 
-* [List any individuals or resources that contributed to the project.]
-
-## License
+* [List any individuals or resources th
