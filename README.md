@@ -1,5 +1,5 @@
 
-# Clone Wallpaper 
+# Clone Wallpapers
 
 Clone-Wallpaper is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to browse and download wallpapers to their computer or mobile device. It provides a user-friendly interface for selecting wallpapers and offers various download options.
 
