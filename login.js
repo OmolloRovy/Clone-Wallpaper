@@ -1,6 +1,6 @@
 function validation () {
     if (document.Formfill.Email.value == "") {
-        
+        document 
     }
     if (document.Formfill.Email.value == "") {
         document.getElementById("result").innerHTML = "Enter your Email*";
