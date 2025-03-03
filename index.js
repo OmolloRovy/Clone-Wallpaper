@@ -1,4 +1,5 @@
 function validation() {
+
     
     if (document.Formfill.username.value == "") {
         document.getElementById("result").innerHTML = "Enter username*";
