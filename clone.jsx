@@ -2,6 +2,7 @@ const fs = require ('fs');
 const fsPromises = require('fs').promises;
 fs.readFile
   fsPromises.unlink
+fs.writeFile
 const fs =require('fs');
 const fsPromises = require('fs').promises;
 const path =require('path');
