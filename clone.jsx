@@ -4,6 +4,7 @@ fs.readFile
   fsPromises.unlink
 fs.writeFile
 fs.appendFile
+fs.renameFile
 const fs =require('fs');
 const fsPromises = require('fs').promises;
 const path =require('path');
